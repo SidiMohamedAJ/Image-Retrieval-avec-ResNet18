@@ -19,7 +19,7 @@ Les images correspondantes sont affichées en sortie pour l'utilisateur, lui per
 - Extraction des caractéristiques :
 Exécutez le script "database_feature_extraction.py" pour extraire les caractéristiques des images de la base de données.
 - Recherche d'images similaires en ligne :
-Exécutez le script "stramlit run main.py" pour rechercher des images similaires en ligne.
+Exécutez le script "streamlit run main.py" pour rechercher des images similaires en ligne.
 
 
 ## Dépendances
